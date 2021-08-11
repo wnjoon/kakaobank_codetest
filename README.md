@@ -2,7 +2,7 @@
 2021년 상반기 카카오뱅크에서 진행한 코딩테스트 제출 파일
 
 ## 문제 내용
-- comments.csv 파일에서 학교 이름을 가장 많이 뽑아내는 프로그램 개발
+- [comments.csv](https://github.com/wnjoon/kakaobank_codetest/blob/main/src/comments.csv) 파일에서 학교 이름을 가장 많이 뽑아내는 프로그램 개발
 - xxx학교, xxx초등학교, xxx초, xxx중, 심지어 대학교에 xxxx부설대학고등학교 등등 엄청나게 많음
 - 배달의 민족에서 진행한 이벤트 댓글들이라 그런가, 규칙이 없고 학생들이 흔히 사용하는 줄임말+은어 등등이 엄청나게 섞여있음
 
